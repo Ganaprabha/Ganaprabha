@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ganaprabha
-- 👀 I’m interested in flutter and django
-- 🌱 I’m currently learning flutter and django
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in flutter,react and django
+- 🌱 I’m currently learning react
 - 📫 How to reach me Email:mdivya.divya4@gmail.com
 
 <!---
